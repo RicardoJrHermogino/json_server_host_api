@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "mobileDeviceId": "device_001",
+      "tasks": [
+        {
+          "taskId": 1,
+          "taskName": "Harvesting Coconuts",
+          "scheduledDate": "2024-10-05",
+          "time": "08:00",
+          "location": "Sorsogon City",
+          "weatherRestrictions": ["Clear", "Partly Cloudy"],
+          "temperatureRange": {
+            "min": 25,
+            "max": 35
+          },
+          "details": "Harvest coconuts in the morning when it's cool."
+        },
+        {
+          "taskId": 2,
+          "taskName": "Fertilizing Trees",
+          "scheduledDate": "2024-10-06",
+          "time": "09:00",
+          "location": "Sorsogon City",
+          "weatherRestrictions": ["Clear"],
+          "temperatureRange": {
+            "min": 24,
+            "max": 32
+          },
+          "details": "Apply fertilizer during dry conditions."
+        }
+      ]
+    },
+    {
+      "mobileDeviceId": "device_002",
+      "tasks": [
+        {
+          "taskId": 3,
+          "taskName": "Weeding",
+          "scheduledDate": "2024-10-07",
+          "time": "07:30",
+          "location": "Bulusan",
+          "weatherRestrictions": ["Partly Cloudy", "Clear"],
+          "temperatureRange": {
+            "min": 24,
+            "max": 30
+          },
+          "details": "Weed the plantation early in the morning."
+        },
+        {
+          "taskId": 4,
+          "taskName": "Irrigating",
+          "scheduledDate": "2024-10-08",
+          "time": "10:00",
+          "location": "Bulusan",
+          "weatherRestrictions": ["Sunny"],
+          "temperatureRange": {
+            "min": 25,
+            "max": 33
+          },
+          "details": "Water the trees during sunny days."
+        }
+      ]
+    },
+    {
+      "mobileDeviceId": "device_003",
+      "tasks": [
+        {
+          "taskId": 5,
+          "taskName": "Pest Control",
+          "scheduledDate": "2024-10-09",
+          "time": "11:00",
+          "location": "Donsol",
+          "weatherRestrictions": ["Clear", "Partly Cloudy"],
+          "temperatureRange": {
+            "min": 26,
+            "max": 34
+          },
+          "details": "Use organic pest control methods."
+        },
+        {
+          "taskId": 6,
+          "taskName": "Pruning Trees",
+          "scheduledDate": "2024-10-10",
+          "time": "08:00",
+          "location": "Donsol",
+          "weatherRestrictions": ["Clear"],
+          "temperatureRange": {
+            "min": 24,
+            "max": 31
+          },
+          "details": "Prune trees to encourage growth."
+        }
+      ]
+    }
+  ]
+}
