@@ -4,103 +4,239 @@
       "id": 1,
       "task": "Harvesting coconuts",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Best done in dry weather to avoid spoilage."
+      "details": "Best done in dry weather to avoid spoilage.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
     },
     {
       "id": 2,
       "task": "Cleaning coconut trees",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Avoid during heavy rain to prevent slips."
+      "details": "Avoid during heavy rain to prevent slips.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 75
+      }
     },
     {
       "id": 3,
       "task": "Applying fertilizer",
       "weatherRestrictions": ["Clear", "Light Rain"],
-      "details": "Should be applied before rain for better absorption."
+      "details": "Should be applied before rain for better absorption.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
     },
     {
       "id": 4,
       "task": "Watering coconut plants",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Water early in the morning or late in the afternoon."
+      "details": "Water early in the morning or late in the afternoon.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 75
+      }
     },
     {
       "id": 5,
       "task": "Inspecting for pests",
       "weatherRestrictions": ["Clear", "Cloudy"],
-      "details": "Best done when plants are dry."
+      "details": "Best done when plants are dry.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
     },
     {
       "id": 6,
       "task": "Transplanting coconut seedlings",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Avoid during extreme heat or rain."
+      "details": "Avoid during extreme heat or rain.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
     },
     {
       "id": 7,
       "task": "Weeding around coconut trees",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Weed when the soil is moist for easier removal."
+      "details": "Weed when the soil is moist for easier removal.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 55,
+        "max": 75
+      }
     },
     {
       "id": 8,
       "task": "Mulching for moisture retention",
       "weatherRestrictions": ["Clear", "Light Rain"],
-      "details": "Best done before predicted rain."
+      "details": "Best done before predicted rain.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
     },
     {
       "id": 9,
       "task": "Checking for diseases",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Inspect plants when they are dry to see symptoms clearly."
+      "details": "Inspect plants when they are dry to see symptoms clearly.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
     },
     {
       "id": 10,
       "task": "Applying pesticides",
       "weatherRestrictions": ["Clear"],
-      "details": "Do not apply just before rain."
+      "details": "Do not apply just before rain.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 75
+      }
     },
     {
       "id": 11,
       "task": "Collecting fallen fruits",
       "weatherRestrictions": ["Any"],
-      "details": "Can be done anytime."
+      "details": "Can be done anytime.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 80
+      }
     },
     {
       "id": 12,
       "task": "Preparing soil for new plants",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Best done when the soil is dry and crumbly."
+      "details": "Best done when the soil is dry and crumbly.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
     },
     {
       "id": 13,
       "task": "Setting up irrigation",
       "weatherRestrictions": ["Clear"],
-      "details": "Avoid when rain is forecasted."
+      "details": "Avoid when rain is forecasted.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
     },
     {
       "id": 14,
       "task": "Planting cover crops",
       "weatherRestrictions": ["Clear", "Light Rain"],
-      "details": "Plant during moist conditions for better germination."
+      "details": "Plant during moist conditions for better germination.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
     },
     {
       "id": 15,
       "task": "Training coconut trees",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Ensure good weather for stability."
+      "details": "Ensure good weather for stability.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
     },
     {
       "id": 16,
       "task": "Building support structures",
       "weatherRestrictions": ["Clear"],
-      "details": "Best done in dry weather for stability."
+      "details": "Best done in dry weather for stability.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
     },
     {
       "id": 17,
       "task": "Monitoring growth",
       "weatherRestrictions": ["Any"],
-      "details": "Can be monitored anytime."
+      "details": "Can be monitored anytime.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 80
+      }
     }
   ]
 }
