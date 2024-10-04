@@ -3,7 +3,14 @@
     {
       "id": 1,
       "task": "Harvesting coconuts",
-      "weatherRestrictions": ["Clear", "Partly Cloudy", "Light Rain"],
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" },
+        { "main": "Clouds", "description": "Scattered clouds" },
+        { "main": "Clouds", "description": "Broken clouds" },
+        { "main": "Rain", "description": "Light rain" },
+        { "main": "Rain", "description": "Light rain shower" }
+      ],
       "details": "Best done in dry weather to avoid spoilage. Harvest when coconuts are ripe.",
       "requiredTemperature": {
         "min": 25,
@@ -17,7 +24,12 @@
     {
       "id": 2,
       "task": "Cleaning coconut trees",
-      "weatherRestrictions": ["Clear", "Partly Cloudy"],
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" },
+        { "main": "Clouds", "description": "Scattered clouds" },
+        { "main": "Clouds", "description": "Broken clouds" }
+      ],
       "details": "Remove dead fronds and pests to maintain tree health. Avoid during heavy rain to prevent slips.",
       "requiredTemperature": {
         "min": 25,
@@ -31,7 +43,15 @@
     {
       "id": 3,
       "task": "Applying fertilizer",
-      "weatherRestrictions": ["Clear", "Light Rain"],
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" },
+        { "main": "Clouds", "description": "Scattered clouds" },
+        { "main": "Clouds", "description": "Broken clouds" },
+        { "main": "Rain", "description": "Light rain" },
+        { "main": "Rain", "description": "Light rain shower" },
+        { "main": "Drizzle", "description": "Drizzle" }
+      ],
       "details": "Apply before rain for better absorption into the soil.",
       "requiredTemperature": {
         "min": 26,
@@ -45,7 +65,12 @@
     {
       "id": 4,
       "task": "Watering coconut plants",
-      "weatherRestrictions": ["Clear", "Partly Cloudy"],
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" },
+        { "main": "Clouds", "description": "Scattered clouds" },
+        { "main": "Clouds", "description": "Broken clouds" }
+      ],
       "details": "Water early in the morning or late in the afternoon to minimize evaporation.",
       "requiredTemperature": {
         "min": 25,
@@ -59,7 +84,13 @@
     {
       "id": 5,
       "task": "Inspecting for pests",
-      "weatherRestrictions": ["Clear", "Cloudy"],
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" },
+        { "main": "Clouds", "description": "Scattered clouds" },
+        { "main": "Clouds", "description": "Broken clouds" },
+        { "main": "Clouds", "description": "Overcast clouds" }
+      ],
       "details": "Regularly check for pests to prevent infestations. Best done when plants are dry.",
       "requiredTemperature": {
         "min": 24,
@@ -73,7 +104,12 @@
     {
       "id": 6,
       "task": "Transplanting coconut seedlings",
-      "weatherRestrictions": ["Clear", "Partly Cloudy"],
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" },
+        { "main": "Clouds", "description": "Scattered clouds" },
+        { "main": "Clouds", "description": "Broken clouds" }
+      ],
       "details": "Best done when there is adequate moisture in the soil.",
       "requiredTemperature": {
         "min": 25,
