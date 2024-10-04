@@ -12,48 +12,6 @@
       "idealHumidity": {
         "min": 60,
         "max": 80
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 29,
-          "max": 31
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 26
-        },
-        "temp_max": {
-          "min": 30,
-          "max": 32
-        },
-        "pressure": {
-          "min": 1005,
-          "max": 1015
-        },
-        "humidity": {
-          "min": 70,
-          "max": 75
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 30
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 4,
-            "max": 6
-          },
-          "deg": {
-            "min": 170,
-            "max": 190
-          },
-          "gust": {
-            "min": 5,
-            "max": 8
-          }
-        }
       }
     },
     {
@@ -68,48 +26,6 @@
       "idealHumidity": {
         "min": 50,
         "max": 75
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 28,
-          "max": 30
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 29,
-          "max": 31
-        },
-        "pressure": {
-          "min": 1008,
-          "max": 1012
-        },
-        "humidity": {
-          "min": 60,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 20
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 2,
-            "max": 5
-          },
-          "deg": {
-            "min": 190,
-            "max": 210
-          },
-          "gust": {
-            "min": 3,
-            "max": 6
-          }
-        }
       }
     },
     {
@@ -124,48 +40,6 @@
       "idealHumidity": {
         "min": 60,
         "max": 80
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 27,
-          "max": 29
-        },
-        "temp_min": {
-          "min": 25,
-          "max": 26
-        },
-        "temp_max": {
-          "min": 29,
-          "max": 31
-        },
-        "pressure": {
-          "min": 1009,
-          "max": 1012
-        },
-        "humidity": {
-          "min": 65,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 20,
-            "max": 40
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 3,
-            "max": 5
-          },
-          "deg": {
-            "min": 180,
-            "max": 200
-          },
-          "gust": {
-            "min": 4,
-            "max": 7
-          }
-        }
       }
     },
     {
@@ -180,48 +54,6 @@
       "idealHumidity": {
         "min": 50,
         "max": 75
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 26,
-          "max": 28
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 28,
-          "max": 31
-        },
-        "pressure": {
-          "min": 1007,
-          "max": 1011
-        },
-        "humidity": {
-          "min": 65,
-          "max": 75
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 15
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 1,
-            "max": 3
-          },
-          "deg": {
-            "min": 160,
-            "max": 180
-          },
-          "gust": {
-            "min": 2,
-            "max": 4
-          }
-        }
       }
     },
     {
@@ -236,48 +68,6 @@
       "idealHumidity": {
         "min": 50,
         "max": 70
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 25,
-          "max": 27
-        },
-        "temp_min": {
-          "min": 23,
-          "max": 24
-        },
-        "temp_max": {
-          "min": 28,
-          "max": 30
-        },
-        "pressure": {
-          "min": 1008,
-          "max": 1010
-        },
-        "humidity": {
-          "min": 60,
-          "max": 65
-        },
-        "clouds": {
-          "all": {
-            "min": 10,
-            "max": 20
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 2,
-            "max": 4
-          },
-          "deg": {
-            "min": 190,
-            "max": 210
-          },
-          "gust": {
-            "min": 3,
-            "max": 5
-          }
-        }
       }
     },
     {
@@ -292,48 +82,6 @@
       "idealHumidity": {
         "min": 60,
         "max": 80
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 28,
-          "max": 30
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 30,
-          "max": 33
-        },
-        "pressure": {
-          "min": 1009,
-          "max": 1013
-        },
-        "humidity": {
-          "min": 65,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 20
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 3,
-            "max": 6
-          },
-          "deg": {
-            "min": 180,
-            "max": 200
-          },
-          "gust": {
-            "min": 4,
-            "max": 7
-          }
-        }
       }
     },
     {
@@ -348,111 +96,13 @@
       "idealHumidity": {
         "min": 55,
         "max": 75
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 26,
-          "max": 28
-        },
-        "temp_min": {
-          "min": 23,
-          "max": 24
-        },
-        "temp_max": {
-          "min": 29,
-          "max": 31
-        },
-        "pressure": {
-          "min": 1006,
-          "max": 1010
-        },
-        "humidity": {
-          "min": 60,
-          "max": 65
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 15
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 2,
-            "max": 5
-          },
-          "deg": {
-            "min": 190,
-            "max": 210
-          },
-          "gust": {
-            "min": 3,
-            "max": 5
-          }
-        }
       }
     },
     {
       "id": 8,
-      "task": "Fencing coconut plantation",
-      "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Should be done in dry weather to avoid muddy conditions.",
-      "requiredTemperature": {
-        "min": 26,
-        "max": 31
-      },
-      "idealHumidity": {
-        "min": 55,
-        "max": 75
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 27,
-          "max": 29
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 26
-        },
-        "temp_max": {
-          "min": 29,
-          "max": 32
-        },
-        "pressure": {
-          "min": 1005,
-          "max": 1012
-        },
-        "humidity": {
-          "min": 60,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 20
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 3,
-            "max": 6
-          },
-          "deg": {
-            "min": 170,
-            "max": 190
-          },
-          "gust": {
-            "min": 4,
-            "max": 7
-          }
-        }
-      }
-    },
-    {
-      "id": 9,
-      "task": "Mulching coconut trees",
-      "weatherRestrictions": ["Clear", "Cloudy"],
-      "details": "Best done in the dry season.",
+      "task": "Mulching for moisture retention",
+      "weatherRestrictions": ["Clear", "Light Rain"],
+      "details": "Best done before predicted rain.",
       "requiredTemperature": {
         "min": 25,
         "max": 30
@@ -460,217 +110,180 @@
       "idealHumidity": {
         "min": 60,
         "max": 80
+      }
+    },
+    {
+      "id": 9,
+      "task": "Checking for diseases",
+      "weatherRestrictions": ["Clear", "Partly Cloudy"],
+      "details": "Inspect plants when they are dry to see symptoms clearly.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
       },
-      "limitationData": {
-        "feels_like": {
-          "min": 26,
-          "max": 28
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 28,
-          "max": 30
-        },
-        "pressure": {
-          "min": 1007,
-          "max": 1011
-        },
-        "humidity": {
-          "min": 60,
-          "max": 75
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 1,
-            "max": 4
-          },
-          "deg": {
-            "min": 180,
-            "max": 200
-          },
-          "gust": {
-            "min": 2,
-            "max": 4
-          }
-        }
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
       }
     },
     {
       "id": 10,
-      "task": "Pest control",
-      "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Avoid applying during rain to ensure effectiveness.",
+      "task": "Applying pesticides",
+      "weatherRestrictions": ["Clear"],
+      "details": "Do not apply just before rain.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 75
+      }
+    },
+    {
+      "id": 11,
+      "task": "Collecting fallen fruits",
+      "weatherRestrictions": ["Any"],
+      "details": "Can be done anytime.",
       "requiredTemperature": {
         "min": 25,
         "max": 30
       },
       "idealHumidity": {
-        "min": 55,
-        "max": 75
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 26,
-          "max": 28
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 29,
-          "max": 31
-        },
-        "pressure": {
-          "min": 1006,
-          "max": 1010
-        },
-        "humidity": {
-          "min": 60,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 20
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 3,
-            "max": 5
-          },
-          "deg": {
-            "min": 180,
-            "max": 200
-          },
-          "gust": {
-            "min": 4,
-            "max": 7
-          }
-        }
-      }
-    },
-    {
-      "id": 11,
-      "task": "Fertilizing coconut trees",
-      "weatherRestrictions": ["Clear", "Light Rain"],
-      "details": "Best applied before rain.",
-      "requiredTemperature": {
-        "min": 26,
-        "max": 31
-      },
-      "idealHumidity": {
-        "min": 55,
-        "max": 75
-      },
-      "limitationData": {
-        "feels_like": {
-          "min": 27,
-          "max": 29
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 28,
-          "max": 30
-        },
-        "pressure": {
-          "min": 1008,
-          "max": 1012
-        },
-        "humidity": {
-          "min": 60,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 15
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 2,
-            "max": 5
-          },
-          "deg": {
-            "min": 170,
-            "max": 190
-          },
-          "gust": {
-            "min": 3,
-            "max": 6
-          }
-        }
+        "min": 50,
+        "max": 80
       }
     },
     {
       "id": 12,
-      "task": "Pruning coconut trees",
+      "task": "Preparing soil for new plants",
       "weatherRestrictions": ["Clear", "Partly Cloudy"],
-      "details": "Avoid during strong winds.",
+      "details": "Best done when the soil is dry and crumbly.",
       "requiredTemperature": {
         "min": 25,
-        "max": 31
+        "max": 30
       },
       "idealHumidity": {
-        "min": 55,
-        "max": 75
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 13,
+      "task": "Setting up irrigation",
+      "weatherRestrictions": ["Clear"],
+      "details": "Avoid when rain is forecasted.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 32
       },
-      "limitationData": {
-        "feels_like": {
-          "min": 28,
-          "max": 30
-        },
-        "temp_min": {
-          "min": 24,
-          "max": 25
-        },
-        "temp_max": {
-          "min": 28,
-          "max": 32
-        },
-        "pressure": {
-          "min": 1009,
-          "max": 1011
-        },
-        "humidity": {
-          "min": 60,
-          "max": 70
-        },
-        "clouds": {
-          "all": {
-            "min": 0,
-            "max": 20
-          }
-        },
-        "wind": {
-          "speed": {
-            "min": 4,
-            "max": 6
-          },
-          "deg": {
-            "min": 180,
-            "max": 190
-          },
-          "gust": {
-            "min": 5,
-            "max": 8
-          }
-        }
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 14,
+      "task": "Planting cover crops",
+      "weatherRestrictions": ["Clear", "Light Rain"],
+      "details": "Plant during moist conditions for better germination.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
+    },
+    {
+      "id": 15,
+      "task": "Training coconut trees",
+      "weatherRestrictions": ["Clear", "Partly Cloudy"],
+      "details": "Ensure good weather for stability.",
+      "requiredTemperature": {
+        "min": 26,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 16,
+      "task": "Building support structures",
+      "weatherRestrictions": ["Clear"],
+      "details": "Best done in dry weather for stability.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 17,
+      "task": "Monitoring growth",
+      "weatherRestrictions": ["Any"],
+      "details": "Can be monitored anytime.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 80
       }
     }
   ]
 }
+
+
+
+can you add more data for each, 
+
+
+refer to this weather data
+
+{
+      "dt": 1728021600,
+      "main": {
+        "temp": 29.18,
+        "feels_like": 33.52,
+        "temp_min": 29.18,
+        "temp_max": 29.18,
+        "pressure": 1008,
+        "sea_level": 1008,
+        "grnd_level": 1007,
+        "humidity": 72,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 100
+      },
+      "wind": {
+        "speed": 2.96,
+        "deg": 59,
+        "gust": 3.75
+      },
+      "visibility": 10000,
+      "pop": 1,
+      "rain": {
+        "3h": 3.96
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2024-10-04 06:00:00"
+    },
