@@ -18,7 +18,7 @@
       },
       "idealHumidity": {
         "min": 60,
-        "max": 80
+        "max": 90
       }
     },
     {
