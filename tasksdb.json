@@ -119,6 +119,141 @@
         "min": 60,
         "max": 80
       }
+    },
+    {
+      "id": 7,
+      "task": "Pruning coconut palms",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" }
+      ],
+      "details": "Remove dead or diseased fronds to promote healthy growth and reduce pest infestations. Best performed in dry weather.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 8,
+      "task": "Mulching around coconut trees",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" }
+      ],
+      "details": "Apply organic mulch around the base of trees to retain moisture, suppress weeds, and improve soil fertility. Avoid applying during heavy rain.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 85
+      }
+    },
+    {
+      "id": 9,
+      "task": "Monitoring soil health",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" }
+      ],
+      "details": "Regularly test soil pH and nutrient levels to ensure optimal conditions for coconut growth. Best done during dry conditions.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 10,
+      "task": "Controlling weeds",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" }
+      ],
+      "details": "Regularly remove weeds around coconut trees to reduce competition for nutrients and water. Best done when the soil is moist.",
+      "requiredTemperature": {
+        "min": 25,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 75
+      }
+    },
+    {
+      "id": 11,
+      "task": "Harvesting coconut sap (tuba)",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" }
+      ],
+      "details": "Collect sap from the flower buds of the coconut tree to produce tuba or vinegar. Best done early in the morning when temperatures are cooler.",
+      "requiredTemperature": {
+        "min": 22,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 90
+      }
+    },
+    {
+      "id": 12,
+      "task": "Managing irrigation",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Rain", "description": "Light rain" }
+      ],
+      "details": "Ensure proper irrigation to maintain adequate moisture levels, especially during dry periods. Avoid overwatering, which can lead to root rot.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 32
+      },
+      "idealHumidity": {
+        "min": 60,
+        "max": 80
+      }
+    },
+    {
+      "id": 13,
+      "task": "Monitoring for diseases",
+      "weatherRestrictions": [
+        { "main": "Clear", "description": "Clear sky" },
+        { "main": "Clouds", "description": "Few clouds" }
+      ],
+      "details": "Regularly check for signs of diseases such as lethal yellowing or bud rot. Quick action can prevent widespread damage.",
+      "requiredTemperature": {
+        "min": 24,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    {
+      "id": 14,
+      "task": "Preparing for typhoons",
+      "weatherRestrictions": [
+        { "main": "Rain", "description": "Heavy rain" }
+      ],
+      "details": "Ensure that trees are well-maintained and free from dead fronds to reduce wind resistance. Secure any loose equipment.",
+      "requiredTemperature": {
+        "min": 22,
+        "max": 30
+      },
+      "idealHumidity": {
+        "min": 70,
+        "max": 90
+      }
     }
   ]
 }
