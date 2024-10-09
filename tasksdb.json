@@ -24,7 +24,7 @@
         "max": 20
       },
       "requiredCloudCover": {
-        "max": 90
+        "max": 99
       },
       "requiredPressure": {
         "min": 1010,
