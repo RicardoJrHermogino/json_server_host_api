@@ -5,7 +5,7 @@
       "task": "Harvesting coconuts",
       "weatherRestrictions": [
         { "main": "Clear", "description": "Clear sky" },
-        { "main": "Clouds", "description": "Few clouds" }
+        { "main": "Clouds", "description": "Few clouds" },
         { "main": "Clouds", "description": "overcast clouds" }
       ],
       "details": "Harvest during the dry season when fruits are ripe. Avoid harvesting during heavy rain.",
